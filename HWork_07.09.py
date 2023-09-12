@@ -15,4 +15,3 @@ print("*" * 10, "Задание №3. получить список [0, 10, 20, 
 
 data = [i for i in range(0, 100) if i % 10 == 0]
 print(data)
-
